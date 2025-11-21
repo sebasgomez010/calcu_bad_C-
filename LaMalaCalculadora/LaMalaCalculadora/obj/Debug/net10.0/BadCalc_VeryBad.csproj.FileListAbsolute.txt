@@ -1,0 +1,14 @@
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/bin/Debug/net10.0/BadCalc_VeryBad
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/bin/Debug/net10.0/BadCalc_VeryBad.deps.json
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/bin/Debug/net10.0/BadCalc_VeryBad.runtimeconfig.json
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/bin/Debug/net10.0/BadCalc_VeryBad.dll
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/bin/Debug/net10.0/BadCalc_VeryBad.pdb
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.AssemblyInfoInputs.cache
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.AssemblyInfo.cs
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.csproj.CoreCompileInputs.cache
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.dll
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/refint/BadCalc_VeryBad.dll
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.pdb
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/BadCalc_VeryBad.genruntimeconfig.cache
+/Users/ESTUDIO/Documents/UNIVERSIDAD/METRICAS/Parcial/LaMalaCalculadora/obj/Debug/net10.0/ref/BadCalc_VeryBad.dll
